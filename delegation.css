@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: bisque;
+}
+
+.container {
+    width: 50%;
+    padding: 20px;
+    background-color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 40px auto;
+    border: 2px solid white;
+    border-radius: 4px;
+}
+
+.content-item {
+    background-color: gray;
+    margin-top: 5px;
+    padding: 30px;
+    border: 1px solid white;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
